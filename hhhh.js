@@ -17,4 +17,6 @@ function create1(length) {
 
 create1(20)
 
+hjkljkjkl
+
 //console.log(create(20))
